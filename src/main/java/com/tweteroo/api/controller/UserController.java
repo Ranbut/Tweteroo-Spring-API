@@ -13,12 +13,12 @@ import com.tweteroo.api.model.User;
 import com.tweteroo.api.service.UserService;
 
 @RestController
-@RequestMapping("/sign-up")
+@RequestMapping("api/auth/sign-up")
 public class UserController {
     
 	@Autowired
 	private UserService service;
-
+    
     @PostMapping
     @ResponseStatus(value = HttpStatus.CREATED)
     public String create(@RequestBody UserDTO req){
