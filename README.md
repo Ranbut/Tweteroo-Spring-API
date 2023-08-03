@@ -6,8 +6,8 @@ Projeto da Driven Education
 Seu primeiro projeto Spring será a construção da API do conhecido **Tweteroo**, um clone do Twitter, que foi implementado no módulo de back-end
 
 <p float="left">
-  <img src="https://raw.githubusercontent.com/Ranbut/Tweteroo-Spring-API/main/screenshots/Print1.png" width="450" />
-  <img src="https://raw.githubusercontent.com/Ranbut/Tweteroo-Spring-API/main/screenshots/Print2.png" width="450" /> 
+  <img src="https://raw.githubusercontent.com/Ranbut/Tweteroo-Spring-API/main/screenshots/Print1.png" width="400" />
+  <img src="https://raw.githubusercontent.com/Ranbut/Tweteroo-Spring-API/main/screenshots/Print2.png" width="400" /> 
 </p>
 
 Neste projeto **você NÃO DESENVOLVERÁ** o front-end do projeto. Ele já está pronto e disponível abaixo. No entanto, note que o projeto não está escrito em React e sim no formato web tradicional. Para fazer ele funcionar em desenvolvimento, basta usar o *Live Server ou abrir diretamente o arquivo index.html*:
